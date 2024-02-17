@@ -8,9 +8,7 @@ public class Main {
         int mesafeKM ;
             //hesaplama icin degisken anımladik
         double tutarHsp,kmUcrt=2.20,acilisUcrt=10;
-            // kısa mesafe kontrolu icin degisken tanimladik
-        boolean tutarKntrl;
-            //girdi alabilmek icin scanner nsnesi tanimladik
+           //girdi alabilmek icin scanner nsnesi tanimladik
         Scanner girdi = new Scanner(System.in);
             // kullanıcıdan km bilgisini aldık
         System.out.println("Gidilen mesafe giriniz KM : " );
